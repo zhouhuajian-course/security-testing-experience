@@ -45,7 +45,7 @@ Buip Suite 企业版、专业版、社区版、Dastardly, from Burp Suite (例�
 
 ## 简称
 
-BP
+BP 或 Burp
 
 ## 安装、使用
 
