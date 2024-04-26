@@ -80,6 +80,8 @@ Static application security testing (SAST) and dynamic application security test
     </tbody>
 </table>
 
+https://www.synopsys.com/blogs/software-security/sast-vs-dast-difference.html
+
 ## 漏洞类型列表
 
 <table>
