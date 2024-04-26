@@ -12,6 +12,8 @@ Xray
 
 Static application security testing (SAST) and dynamic application security testing (DAST) 
 
+/sæst/ /dæst/
+
 静态应用程序安全测试 动态应用安全测试  
 白盒测试             黑盒测试  
 
