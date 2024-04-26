@@ -1,5 +1,75 @@
 # 安全测试
 
+## SAST & DAST
+
+Static application security testing (SAST) and dynamic application security testing (DAST) 
+
+静态应用程序安全测试 动态应用安全测试
+白盒测试             黑盒测试
+
+<table width="100%">
+    <tbody>
+        <tr>
+            <td width="50%">
+                <h3>SAST</h3>
+            </td>
+            <td width="50%">
+                <h3>DAST</h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><b>White box security testing</b></p>
+                <p>The tester has access to the underlying framework, design, and implementation. The application is tested from the inside out. This type of testing represents the developer approach.</p>
+            </td>
+            <td>
+                <p><b>Black box security testing</b></p>
+                <p>The tester has no knowledge of the technologies or frameworks that the application is built on. The application is tested from the outside in. This type of testing represents the hacker approach.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><b>Requires source code</b></p>
+                <p>SAST doesn’t require a deployed application. It analyzes the source code and related dependencies without executing the application.</p>
+            </td>
+            <td>
+                <p><b>Requires a running application</b></p>
+                <p>DAST doesn’t require source code or binaries. It analyzes by executing the application.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><b>Finds vulnerabilities earlier in the SDLC</b></p>
+                <p>Scans can be run at various stages of the development process, including in the IDE, when codeVulnerabilities can be discovered at the end of the development cycle or in production.</p>
+            </td>
+            <td>
+                <p><b>Finds vulnerabilities toward the end of the SDLC</b></p>
+                <p>Vulnerabilities can be discovered at the end of the development cycle or in production.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><b>Less expensive to fix vulnerabilities</b></p>
+                <p>Since vulnerabilities are found earlier in the SDLC, it’s easier and faster to remediate them. Most issues can be identified and fixed before the code reaches QA.</p>
+            </td>
+            <td>
+                <p><b>Can be more expensive to fix vulnerabilities</b></p>
+                <p>Since vulnerabilities are found toward the end of the SDLC, remediation often gets pushed into the next cycle. Critical vulnerabilities may be fixed as an emergency release. With solutions like fAST Dynamic, costs can be easily reduced.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p><b>Can’t discover run-time and environment-related issues</b></p>
+                <p>Since SAST tools scan static code, they don’t have visibility into potential runtime vulnerabilities.</p>
+            </td>
+            <td>
+                <p><b>Can discover run-time and environment-related issues</b></p>
+                <p>Since the tool uses dynamic analysis, it is able to find runtime vulnerabilities.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ## 漏洞类型列表
 
 <table>
