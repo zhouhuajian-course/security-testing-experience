@@ -2,6 +2,14 @@
 
 https://portswigger.net/
 
+Java 语言开发
+
+PortSwigger 公司开发
+
+PortSwigger 公司
+
+PortSwigger 由网络安全领域的领先专家 Dafydd Stuttard 于 2004 年创办。
+
 ## 重命名任务名
 
 任务列表->右上角...->Rename task
