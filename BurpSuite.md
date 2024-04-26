@@ -10,6 +10,8 @@ PortSwigger 公司
 
 PortSwigger 由网络安全领域的领先专家 Swig Dafydd Stuttard 于 2004 年创办。
 
+使用内置的 Chromium 代理时 非常慢 不建议使用
+
 ## 重命名任务名
 
 任务列表->右上角...->Rename task
