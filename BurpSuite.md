@@ -15,7 +15,11 @@ PortSwigger 由网络安全领域的领先专家 Swig Dafydd Stuttard 于 2004 �
 1. Repeater 修改 POST Body 时，会自动更新 Content-Length，左上角 点击“齿轮”按钮也能看到
 2. Intruder Start Attack 之后，request 0是没有做替换发的请求，可用作和后续替换后发的请求进行对比
 3. Intruder Start Attack 之后，关闭窗口，Keep In Memory 可以在 Dashboard 的 Tasks里面找到结果，这也说明，Start Attack，其实是开启了一个新的Task
-4. 
+4. Repeater 修改后，Send，如果响应状态码是 302 Found，左上角会出现 Follow redirection，点击可以很方便地重定向
+
+## Web 安全 学院
+
+https://portswigger.net/web-security/dashboard
 
 ## 重命名任务名
 
