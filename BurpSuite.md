@@ -17,6 +17,10 @@ PortSwigger 由网络安全领域的领先专家 Swig Dafydd Stuttard 于 2004 �
 3. Intruder Start Attack 之后，关闭窗口，Keep In Memory 可以在 Dashboard 的 Tasks里面找到结果，这也说明，Start Attack，其实是开启了一个新的Task
 4. Repeater 修改后，Send，如果响应状态码是 302 Found，左上角会出现 Follow redirection，点击可以很方便地重定向
 
+## 方便的使用方式
+
+Burp 方屏幕左边 内置浏览器 放屏幕右边
+
 ## Web 安全 学院
 
 https://portswigger.net/web-security/dashboard
