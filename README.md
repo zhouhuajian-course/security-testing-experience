@@ -2,7 +2,8 @@
 
 ## 计算机安全会议
 
-DEF CON (also written as DEFCON, Defcon or DC) (The term DEF CON comes from the movie WarGames, referencing the U.S. Armed Forces defense readiness condition (DEFCON))  
+DEF CON (also written as DEFCON, Defcon or DC) 
+(The term DEF CON comes from the movie WarGames, referencing the U.S. Armed Forces defense readiness condition (DEFCON))  
 https://en.wikipedia.org/wiki/DEF_CON
 
 ## 安全测试靶场
