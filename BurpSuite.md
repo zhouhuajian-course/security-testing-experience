@@ -19,7 +19,7 @@ PortSwigger 由网络安全领域的领先专家 Swig Dafydd Stuttard 于 2004 �
 
 ## 方便的使用方式
 
-Burp 方屏幕左边 内置浏览器 放屏幕右边
+Burp 方屏幕左边 约占2/3 内置 Chromium 浏览器 放屏幕右边 约占1/3
 
 ## Web 安全 学院
 
