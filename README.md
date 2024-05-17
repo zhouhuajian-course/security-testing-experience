@@ -1,5 +1,9 @@
 # 安全测试
 
+## 计算机安全测试 资料
+
+https://book.hacktricks.xyz/
+
 ## 计算机安全会议
 
 DEF CON (also written as DEFCON, Defcon or DC) 
