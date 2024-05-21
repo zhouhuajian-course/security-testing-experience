@@ -1,5 +1,9 @@
 # 安全测试
 
+## Chrome 修改 Cookie
+
+开发者工具 -> 应用 -> Cookie 在这里可以直接修改网站Cookie
+
 ## 计算机安全测试 资料
 
 https://book.hacktricks.xyz/
