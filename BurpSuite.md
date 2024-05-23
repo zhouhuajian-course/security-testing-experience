@@ -21,6 +21,8 @@ PortSwigger 由网络安全领域的领先专家 Swig Dafydd Stuttard 于 2004 �
 
 右键某请求 -> 高亮 -> 选择某个颜色 可以高亮某请求
 
+虽然可以，递减的方式查看 HTTP 历史，但建议 递增的方式查看，更像 Chrome 等浏览器的 请求日志
+
 ## Decoder 解码器
 
 粘贴加密内容后，点解 smart decode 可以很方便快速解码
