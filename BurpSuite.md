@@ -20,6 +20,7 @@ PortSwigger 由网络安全领域的领先专家 Swig Dafydd Stuttard 于 2004 �
 ## 好用的扩展
 
 JWT Editor  
+JSON Web Tokens  
 Param Miner  
 Autorize  
 
